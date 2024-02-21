@@ -3,7 +3,7 @@
  *
  * see usage.txt file
  *
- * Written by: Jelliebeth Sevilla and John Limon
+ * Written by: Jelliebeth and John
  * Due Date: February 29, 2024
  **********************************************************************************/
 
