@@ -88,7 +88,7 @@ const server = http.createServer(async (request, response) => {
       }
 
       body {
-        background: #ffc0d6;
+        background: #ffbf00;
         background: linear-gradient(180deg, #ffd5df91, #ffc0d6c2);
         font-family: 'Golos Text', sans-serif;
         -webkit-font-smoothing: antialiased;
@@ -339,7 +339,7 @@ const server = http.createServer(async (request, response) => {
       }
 
       body {
-        background: #ffc0d6;
+        background: #ffbf00;
         background: linear-gradient(180deg, #ffd5df91, #ffc0d6c2);
         font-family: 'Golos Text', sans-serif;
         -webkit-font-smoothing: antialiased;
@@ -603,7 +603,7 @@ const server = http.createServer(async (request, response) => {
               }
       
               body {
-                background: #ffc0d6;
+                background: #ffbf00;
                 background: linear-gradient(180deg, #ffd5df91, #ffc0d6c2);
                 font-family: 'Golos Text', sans-serif;
                 -webkit-font-smoothing: antialiased;
@@ -864,7 +864,7 @@ const server = http.createServer(async (request, response) => {
               }
       
               body {
-                background: #ffc0d6;
+                background: #ffbf00;
                 background: linear-gradient(180deg, #ffd5df91, #ffc0d6c2);
                 font-family: 'Golos Text', sans-serif;
                 -webkit-font-smoothing: antialiased;
@@ -1126,7 +1126,7 @@ const server = http.createServer(async (request, response) => {
               }
       
               body {
-                background: #ffc0d6;
+                background: #ffbf00;
                 background: linear-gradient(180deg, #ffd5df91, #ffc0d6c2);
                 font-family: 'Golos Text', sans-serif;
                 -webkit-font-smoothing: antialiased;
