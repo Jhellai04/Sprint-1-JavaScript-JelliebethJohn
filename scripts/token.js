@@ -75,7 +75,7 @@ function countToken() {
       });
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.countToken()",
@@ -122,7 +122,7 @@ function listToken() {
       });
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.countToken()",
@@ -200,7 +200,7 @@ function newToken(username) {
           }
         });
       } else {
-        if (DEBUG) console.log("Error - Usersame is already taken");
+        if (DEBUG) console.log("Error - Username is already taken");
         myEmitter.emit(
           "log",
           "token.newToken()",
@@ -310,7 +310,7 @@ function updateToken() {
       }
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.updateToken()",
@@ -364,7 +364,7 @@ function searchTokenByUsername(username) {
       }
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.searchToken()",
@@ -419,7 +419,7 @@ function searchTokenByEmail(email) {
       }
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.searchToken()",
@@ -475,7 +475,7 @@ function searchTokenByPhone(phone) {
       }
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.searchToken()",
@@ -544,7 +544,7 @@ function checkExpiryDate() {
       });
     });
   } else {
-    console.log("token.josn file does not exist");
+    console.log("token.json file does not exist");
     myEmitter.emit(
       "log",
       "token.countToken()",

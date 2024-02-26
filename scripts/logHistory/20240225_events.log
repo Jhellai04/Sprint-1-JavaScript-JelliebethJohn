@@ -1,0 +1,17 @@
+INFO	Date/time - 25/02/2024	21:03:13	Function - [token.newToken()]	New token 7782c71d was created for Zione.	 ID - 3afead21-76a2-4c5e-8ee3-a1ddfedbed8c
+INFO	Date/time - 25/02/2024	21:11:54	Function - [token.newToken()]	New token 57a10a04 was created for Zaira.	 ID - e256baff-881b-446e-a76a-df71f602c456
+INFO	Date/time - 25/02/2024	22:37:32	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - 9cad976f-5d4c-4b4f-a588-f04861f6d494
+INFO	Date/time - 25/02/2024	22:37:41	Function - [token.tokenCount()]	Current token count is 4.	 ID - 5cec1bba-0241-45d9-9241-8b5089184899
+INFO	Date/time - 25/02/2024	22:37:45	Function - [token.listToken()]	Current token list was displayed.	 ID - 42401e8b-e5f1-4b4a-8153-bbd1e2cdcc93
+INFO	Date/time - 25/02/2024	22:38:26	Function - [token.listToken()]	Current token list was displayed.	 ID - 0ea24efa-4a7c-40fa-af84-6b0e2d002a56
+INFO	Date/time - 25/02/2024	22:38:31	Function - [token.listToken()]	Current token list was displayed.	 ID - 7c365b7e-f85d-4d23-8f0a-b768a953762f
+INFO	Date/time - 25/02/2024	22:38:46	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - 842a9015-33bd-4bd9-b018-75f3f55a3761
+INFO	Date/time - 25/02/2024	22:38:51	Function - [token.tokenCount()]	Current token count is 4.	 ID - eceb9060-8fac-4ede-9c46-c1c30064daef
+INFO	Date/time - 25/02/2024	22:39:48	Function - [token.listToken()]	Current token list was displayed.	 ID - 86be7441-c5a9-496f-94c9-668be8a7fabe
+INFO	Date/time - 25/02/2024	22:40:13	Function - [token.listToken()]	Current token list was displayed.	 ID - 3ad76709-2ce9-4e13-95d6-e47d4e4f1227
+INFO	Date/time - 25/02/2024	22:40:23	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - ef6a6cbe-9903-4a82-9f02-86700abdfd8d
+INFO	Date/time - 25/02/2024	22:40:28	Function - [token.tokenCount()]	Current token count is 4.	 ID - e351b110-ca9c-44b7-90ff-503dc7b20eea
+INFO	Date/time - 25/02/2024	22:42:39	Function - [token.listToken()]	Current token list was displayed.	 ID - d10d4ab5-da14-4d0f-ab5f-c52e3c84c33d
+INFO	Date/time - 25/02/2024	22:45:42	Function - [token.listToken()]	Current token list was displayed.	 ID - 710285b9-5e5a-43c5-8d6e-73ca09ac5d4e
+INFO	Date/time - 25/02/2024	22:45:51	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - 0b2524d2-220f-4c25-8ff7-c05d0c4773f5
+INFO	Date/time - 25/02/2024	22:45:55	Function - [token.tokenCount()]	Current token count is 4.	 ID - 787b15dc-2446-4cb6-b266-cc2bee190554
