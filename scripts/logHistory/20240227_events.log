@@ -1,0 +1,5 @@
+INFO	Date/time - 27/02/2024	20:22:14	Function - [token.newToken()]	New token 1e946de5 was created for Jelliebeth.	 ID - 9ebd957e-9987-4e3f-9a94-a0ea914926cf
+INFO	Date/time - 27/02/2024	20:24:52	Function - [token.listToken()]	Current token list was displayed.	 ID - 20d1fbcd-c61b-4c7c-992d-ea524ae21015
+INFO	Date/time - 27/02/2024	20:27:45	Function - [token.listToken()]	Current token list was displayed.	 ID - 3fd942b4-c1bd-4826-abb2-66c60d661ddc
+INFO	Date/time - 27/02/2024	20:27:50	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - 98cb856a-e1d5-4bf9-b8d6-3f788324c402
+INFO	Date/time - 27/02/2024	20:27:54	Function - [token.tokenCount()]	Current token count is 5.	 ID - d4bf75fd-ec16-4291-a674-bf27565d10da
