@@ -1,2 +1,2 @@
 # Sprint-1-JavaScript-JelliebethJohn
-Semester 3 Sprint 1 FullStack JavaScript 
+Sprint 1 Semester 3 FullStack JavaScript 
