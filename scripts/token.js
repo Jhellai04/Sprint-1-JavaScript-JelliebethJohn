@@ -28,7 +28,7 @@ const crc32 = require("crc/crc32");
 const { format, addDays } = require("date-fns");
 const { tokentxt } = require("./template");
 
-// function the count the number of tokens
+// function that count the number of tokens
 
 function countToken() {
   if (DEBUG) console.log("token.countToken(): started\n");

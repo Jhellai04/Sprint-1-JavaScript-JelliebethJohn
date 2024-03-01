@@ -1,0 +1,4 @@
+INFO	Date/time - 29/02/2024	20:59:29	Function - [token.newToken()]	New token 914846a8 was created for John.	 ID - 68874297-7c4c-47b0-980f-c431007fafe3
+INFO	Date/time - 29/02/2024	20:59:49	Function - [token.listToken()]	Current token list was displayed.	 ID - 55bb8831-c63f-4f3a-8974-742cac0aafb2
+INFO	Date/time - 29/02/2024	21:00:06	Function - [token.checkExpiryDate()]	List of expired tokens displayed.	 ID - 80f4b7c7-b516-45ee-a441-d2d419ae584f
+INFO	Date/time - 29/02/2024	21:00:16	Function - [token.tokenCount()]	Current token count is 6.	 ID - e0773772-0ef7-438b-8e22-db638b50c77b
